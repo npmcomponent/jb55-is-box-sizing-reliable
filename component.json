@@ -1,0 +1,14 @@
+{
+  "name": "is-box-sizing-reliable",
+  "repo": "jb55/is-box-sizing-reliable",
+  "description": "Checks to see if box-sizing is reliable",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
