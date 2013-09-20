@@ -3,7 +3,7 @@
   "repo": "jb55/is-box-sizing-reliable",
   "description": "Checks to see if box-sizing is reliable",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["is", "box-sizing", "box"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
