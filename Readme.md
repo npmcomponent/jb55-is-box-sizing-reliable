@@ -1,4 +1,3 @@
-
 # is-box-sizing-reliable
 
   Checks to see if box-sizing is reliable
@@ -10,6 +9,8 @@
     $ component install jb55/is-box-sizing-reliable
 
 ## API
+
+Returns `true` if box sizing is reliable
 
 ```javascript
 var reliableBoxSizing = require('is-box-sizing-reliable');
